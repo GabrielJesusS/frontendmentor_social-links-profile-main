@@ -20,7 +20,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
--Solution URL: [#](#)
+-Solution URL: [https://www.frontendmentor.io/solutions/my---social-links-profile-solution-6zaGciJvEy](https://www.frontendmentor.io/solutions/my---social-links-profile-solution-6zaGciJvEy)
 
 -Live Site URL: [https://gabrieljesuss.github.io/frontendmentor_social-links-profile-main/](https://gabrieljesuss.github.io/frontendmentor_social-links-profile-main/)
 
