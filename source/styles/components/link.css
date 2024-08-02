@@ -1,0 +1,3 @@
+.link {
+    @apply cursor-pointer text-white font-semibold hover:text-alt-green transition-all duration-100 ease-in-out;
+}
