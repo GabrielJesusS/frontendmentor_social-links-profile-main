@@ -1,0 +1,3 @@
+.btn {
+    @apply cursor-pointer block text-center rounded-lg font-bold py-3 px-4 text-white transition-all duration-150 ease-in-out bg-alt-grey-700 hover:text-alt-grey-700 hover:bg-alt-green;
+}
